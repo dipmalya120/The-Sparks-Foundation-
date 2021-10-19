@@ -53,9 +53,9 @@ What all security issues and insights you can derive by EDA?
 
 You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
 
-Here is the dataset : Dataset.csv
+Here is the dataset : https://drive.google.com/file/d/15lGPQDH3RvHw_Wt7r_wr8xo_CIjViajx/view?usp=sharing
 
-Solution: Exploratory Data Analysis - https://drive.google.com/file/d/15lGPQDH3RvHw_Wt7r_wr8xo_CIjViajx/view?usp=sharing
+Solution: Exploratory Data Analysis - 
 
 Demo: Exploratory Data Analysis - Terrorism
 
