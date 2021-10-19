@@ -16,8 +16,6 @@ Demo: Prediction using Supervised ML
 
 
 
-
-
 ## Task 2: Prediction using UnSupervised ML
 
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
@@ -30,12 +28,17 @@ Solution: Prediction using UnSupervised ML
 
 Demo: Prediction using Unsupervised ML
 
+
 ## Task 3:
 
-Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’
+Perform ‘Exploratory Data Analysis’ on dataset ‘Sample Superstore’
 As a business manager, try to find out the weak areas where you can work to make more profit.
 What all business problems you can derive by exploring the data?
-Here is the dataset : Dataset.csv
+
+You can choose any of the tool of your choice
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+
+Here is the dataset : https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view?usp=sharing
 
 Solution: To explore Business Analytics
 
@@ -52,7 +55,7 @@ You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SA
 
 Here is the dataset : Dataset.csv
 
-Solution: Exploratory Data Analysis - Terrorism
+Solution: Exploratory Data Analysis - https://drive.google.com/file/d/15lGPQDH3RvHw_Wt7r_wr8xo_CIjViajx/view?usp=sharing
 
 Demo: Exploratory Data Analysis - Terrorism
 
