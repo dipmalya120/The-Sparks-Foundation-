@@ -25,12 +25,24 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 Use R or Python or perform this task
 
 Here is the dataset : https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
+
 Solution: Prediction using UnSupervised ML
 
 Demo: Prediction using Unsupervised ML
 
+## Task 3:
 
-## Task 3: Exploratory Data Analysis - Terrorism
+Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’
+As a business manager, try to find out the weak areas where you can work to make more profit.
+What all business problems you can derive by exploring the data?
+Here is the dataset : Dataset.csv
+
+Solution: To explore Business Analytics
+
+Demo: To explore Business Analytics
+
+
+## Task 4: Exploratory Data Analysis - Terrorism
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 As a security/defense analyst, try to find out the hot zone of terrorism.
@@ -39,6 +51,9 @@ What all security issues and insights you can derive by EDA?
 You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
 
 Here is the dataset : Dataset.csv
+
 Solution: Exploratory Data Analysis - Terrorism
 
 Demo: Exploratory Data Analysis - Terrorism
+
+
